@@ -1,0 +1,19 @@
+header {
+       margin: 70px;
+       border: 1px solid #4CAF50;
+}
+
+footer {
+        padding: 70px;
+        border: 1px solid #4CAF50;
+}
+
+p {
+    background-color: yellow;
+}
+p.Names {
+        background-color: blue;
+}
+#first love {
+	    color: Red;
+}       
